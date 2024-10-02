@@ -76,6 +76,17 @@
   電腦將會判斷攝影機所拍攝出的物品是否為車輛，而yolo會協助將所偵測到的物品標示出來
   </figure>
 </div>
+<div align="center">
+  <figure>
+
+  成果展示影片:
+    
+  https://youtu.be/Bqruk4Iztro?si=WzjPubz5KZb_83FQ
+    
+  https://youtu.be/dd8TcdhH6wo?si=wUod2oS9zUslh6o9
+  </figure>
+</div>
+
 <br><br>
 
 **4.外送平台**
@@ -122,9 +133,31 @@
 <br><br>
 
 **5.路口來車顯示燈**
+=
 ```
 語言:C、C++
-作品介紹:近年交通事故眾多，許多
+開發板:Arduino
+作品介紹:近年交通事故眾多，許多意外都發生於巷口追撞事故，因此想透過顯示燈讓行駛於路上的車提前得知巷口有無來車，進而減少事故發生率
+```
+<div align="center">
+  <figure>
+  <img src="https://github.com/user-attachments/assets/f1216ade-b5ef-4f08-952a-3452dff2cdcc" width="500" height="300">
+   
+  透過超聲波偵測是否有來車，假如偵測到車輛，LED顯示板將會顯示來車告知，而使用者會透過LINE NOTIFY接收到來車提醒，馬達上則能裝上旗幟
+  讓駕駛員從遠處就能得知巷口有來車，而蜂鳴器會發出警告提醒駕駛員
+  </figure>
+</div>
+<br><br>
+<div align="center">
+  <figure>
+成品展示影片  
+https://youtu.be/P49ksD6lKTI
+</figure>
+</div>
+
+
+
+
 
 
  
