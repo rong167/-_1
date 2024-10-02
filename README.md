@@ -31,7 +31,7 @@
   <figure>
 <img src="https://github.com/user-attachments/assets/70cf8d18-229d-4e98-a953-b3513db844d2" alt="此為老師輸入學生成績頁面" width="500" height="300">
   
-    此為老師輸入學生成績頁面
+  此為老師輸入學生成績頁面
   </figure>
 </div>
 <div align="center">
@@ -52,7 +52,7 @@
   <figure>
 <img src="https://github.com/user-attachments/assets/529f0edd-5259-45ce-acc5-8ac53cfa6e04" width="500" height="300">
 
-    學生可藉由此頁面確認自己各科的成績以及是否通過
+  學生可藉由此頁面確認自己各科的成績以及是否通過
   </figure>
 </div>
 <br><br>
