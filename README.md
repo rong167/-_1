@@ -84,3 +84,42 @@
 語言:Android Studio code
 作品介紹:近年來外送越來越盛行，此作品是想將所學的語言將外送平台實做出來，並以使用者的角度將平台打造成方便使用的介面
 ```
+<div align="center">
+  <figure>
+<img src="https://github.com/user-attachments/assets/548697dc-0763-477e-bceb-36f6000b7e23" width="500" height="300">
+
+  此資料表存入已註冊之使用者帳號以及密碼
+  </figure>
+</div>
+<div align="center">
+  <figure>
+<img src="https://github.com/user-attachments/assets/e75e48c2-33b6-49eb-af46-46abe4e94191" width="500" height="300">
+
+  登入後，可挑選店家
+  </figure>
+</div>
+<div align="center">
+  <figure>
+ <img src="https://github.com/user-attachments/assets/ba2e1b4d-1485-4056-97e4-5bf6a8c7117c" width="500" height="300">
+  
+  點選店家後，即可看到該店家的品項以及價錢
+  </figure>
+</div>
+<div align="center">
+  <figure>
+  <img src="https://github.com/user-attachments/assets/e1e33c32-1944-4942-89c0-153691123c6c" width="500" height="300">
+
+  點選完預選產品進購物車，將會統計金額以及產品數量
+  </figure>
+</div>
+<div align="center">
+  <figure>
+  <img src="https://github.com/user-attachments/assets/1b9f3bb6-1b83-4b04-9f10-0489c1d40e3a" width="500" height="600">
+
+  按出送出後，頁面會顯示總金額
+  </figure>
+</div>
+
+
+ 
+
