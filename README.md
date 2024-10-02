@@ -48,7 +48,13 @@
   如果是第一次使用此系統的學生必須先註冊，而後資料庫會自動加進學生的個人資訊
   </figure>
 </div>
+<div align="center">
+  <figure>
+<img src="https://github.com/user-attachments/assets/529f0edd-5259-45ce-acc5-8ac53cfa6e04" width="500" height="300">
 
+    學生可藉由此頁面確認自己各科的成績以及是否通過
+  </figure>
+</div>
 <br><br>
 
 **3.停車顯示器**
